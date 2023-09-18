@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TopImagesDemoApp</string>
+    <string name="label_back">Back</string>
+
+
+    <!-- Search -->
+    <string name="search_here">Search Here</string>
+    <string name="search_no_matches">No matches for “%1s”</string>
+    <string name="search_no_matches_retry">Try broadening your search</string>
+    <string name="search_count">%1d items</string>
+    <string name="label_search">Perform search</string>
+
+</resources>
